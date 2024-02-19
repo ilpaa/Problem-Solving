@@ -52,7 +52,3 @@ If you would like to contribute or add a solution:
 5. Create a pull request.
 
 Please follow the [contributing guidelines](./CONTRIBUTING.md) for more details.
-
-## License
-
-This repository is licensed under the [MIT License](./LICENSE).
