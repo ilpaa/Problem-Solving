@@ -5,15 +5,15 @@ This category includes implementations and solutions related to various algorith
 ## Sorting
 
 - **Bubble Sort:**
-  - [Bubble Sort Description](Algorithms/Sorting/BubbleSort.md)
+  - [Bubble Sort Description](Algorithms/BubbleSort.md)
 
 - **Quicksort:**
-  - [Quicksort Description](Algorithms/Sorting/Quicksort.md)
+  - [Quicksort Description](Algorithms/Quicksort.md)
 
 - **Merge Sort:**
-  - [Merge Sort Description](Algorithms/Sorting/MergeSort.md)
+  - [Merge Sort Description](Algorithms/MergeSort.md)
 
 ## Searching
 
 - **Binary Search:**
-  - [Binary Search Description](Algorithms/Searching/BinarySearch.md)
+  - [Binary Search Description](Algorithms/BinarySearch.md)
